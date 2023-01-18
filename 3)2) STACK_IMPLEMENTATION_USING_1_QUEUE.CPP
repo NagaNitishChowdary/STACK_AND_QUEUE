@@ -1,3 +1,6 @@
+// PROBLEM LINK --- https://www.codingninjas.com/codestudio/problems/stack-using-queue_795152?leftPanelTab=0
+// PROBLEM LINK --- https://leetcode.com/problems/implement-stack-using-queues/
+
 #include<bits/stdc++.h>
 #define LL long long int 
 #define NEXT "\n"
